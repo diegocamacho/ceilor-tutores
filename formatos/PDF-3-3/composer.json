@@ -1,0 +1,5 @@
+{
+    "require": {
+        "eclipxe/buzoncfdi-cfdireader": "^2.5"
+    }
+}

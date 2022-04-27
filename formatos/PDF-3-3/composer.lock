@@ -1,0 +1,217 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "53c4374d95b7a74616ed614806c87dcb",
+    "packages": [
+        {
+            "name": "eclipxe/buzoncfdi-cfdireader",
+            "version": "v2.5.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/eclipxe13/buzoncfdi-cfdireader.git",
+                "reference": "c27bc232c16a38c3a2de63439a1237763b99e300"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/eclipxe13/buzoncfdi-cfdireader/zipball/c27bc232c16a38c3a2de63439a1237763b99e300",
+                "reference": "c27bc232c16a38c3a2de63439a1237763b99e300",
+                "shasum": ""
+            },
+            "require": {
+                "eclipxe/cfdiutils": "^1.0",
+                "eclipxe/xmlresourceretriever": "^1.0",
+                "eclipxe/xmlschemavalidator": "^2.0",
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "^2.4",
+                "jakub-onderka/php-parallel-lint": "^0.9",
+                "phpstan/phpstan-shim": "^0.8",
+                "phpunit/phpunit": "^6.2",
+                "squizlabs/php_codesniffer": "^3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "CFDIReader\\": "src/CFDIReader/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Carlos C Soto",
+                    "email": "eclipxe13@gmail.com"
+                }
+            ],
+            "description": "Library to read and validate a Mexican CFDI 3.2 and 3.3 (Comprobante Fiscal Digital por Internet)",
+            "homepage": "https://github.com/eclipxe13/buzoncfdi-cfdireader",
+            "keywords": [
+                "cfdi",
+                "cfdi3.2",
+                "cfdi3.3",
+                "mexico",
+                "sat"
+            ],
+            "time": "2017-10-16T15:44:21+00:00"
+        },
+        {
+            "name": "eclipxe/cfdiutils",
+            "version": "v1.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/eclipxe13/CfdiUtils.git",
+                "reference": "a40ba5533fee8852f0214b18399a92a45da495e2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/eclipxe13/CfdiUtils/zipball/a40ba5533fee8852f0214b18399a92a45da495e2",
+                "reference": "a40ba5533fee8852f0214b18399a92a45da495e2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "eclipxe/xmlresourceretriever": "^1.0",
+                "friendsofphp/php-cs-fixer": "^2.4",
+                "jakub-onderka/php-parallel-lint": "^0.9",
+                "phpunit/phpunit": "^6.2",
+                "squizlabs/php_codesniffer": "^3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "CfdiUtils\\": "src/CfdiUtils/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Carlos C Soto",
+                    "email": "eclipxe13@gmail.com",
+                    "homepage": "http://eclipxe.com.mx/"
+                }
+            ],
+            "description": "PHP Common utilities for Mexican CFDI 3.2 & 3.3",
+            "homepage": "https://github.com/eclipxe13/CfdiUtils",
+            "keywords": [
+                "cfdi",
+                "helper",
+                "utility"
+            ],
+            "time": "2017-10-10T00:37:42+00:00"
+        },
+        {
+            "name": "eclipxe/xmlresourceretriever",
+            "version": "v1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/eclipxe13/XmlResourceRetriever.git",
+                "reference": "da079436311418c44412b56319975706c099e1d4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/eclipxe13/XmlResourceRetriever/zipball/da079436311418c44412b56319975706c099e1d4",
+                "reference": "da079436311418c44412b56319975706c099e1d4",
+                "shasum": ""
+            },
+            "require": {
+                "ext-xml": "*",
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "^2.4",
+                "jakub-onderka/php-parallel-lint": "^0.9",
+                "phpunit/phpunit": "^6.2",
+                "squizlabs/php_codesniffer": "^3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "XmlResourceRetriever\\": "src/XmlResourceRetriever/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Carlos C Soto",
+                    "email": "eclipxe13@gmail.com",
+                    "homepage": "http://eclipxe.com.mx"
+                }
+            ],
+            "description": "XSD and XLST resource downloader for local storage",
+            "homepage": "https://github.com/eclipxe13/XmlResourceRetriever",
+            "time": "2017-10-04T03:37:27+00:00"
+        },
+        {
+            "name": "eclipxe/xmlschemavalidator",
+            "version": "v2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/eclipxe13/XmlSchemaValidator.git",
+                "reference": "3d9a51c378fbc445add219e5b231ef4b42bcac88"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/eclipxe13/XmlSchemaValidator/zipball/3d9a51c378fbc445add219e5b231ef4b42bcac88",
+                "reference": "3d9a51c378fbc445add219e5b231ef4b42bcac88",
+                "shasum": ""
+            },
+            "require": {
+                "ext-xml": "*",
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "^2.4",
+                "jakub-onderka/php-parallel-lint": "^0.9",
+                "phpunit/phpunit": "^6.2",
+                "squizlabs/php_codesniffer": "^3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "XmlSchemaValidator\\": "src/XmlSchemaValidator/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Carlos C Soto",
+                    "email": "eclipxe13@gmail.com"
+                }
+            ],
+            "description": "PHP Library for XML Schema Validations",
+            "homepage": "https://github.com/eclipxe13/XmlSchemaValidator",
+            "keywords": [
+                "validation",
+                "xml",
+                "xmlschema",
+                "xsd"
+            ],
+            "time": "2017-09-25T19:57:24+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

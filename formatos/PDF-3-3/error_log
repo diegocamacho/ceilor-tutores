@@ -1,0 +1,67 @@
+[03-Jan-2018 23:41:18 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 90
+[03-Jan-2018 23:52:42 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 43
+[03-Jan-2018 23:53:49 America/Chicago] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 54
+[03-Jan-2018 23:54:09 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 112
+[03-Jan-2018 23:54:37 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 140
+[03-Jan-2018 23:54:48 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 155
+[03-Jan-2018 23:54:53 America/Chicago] PHP Fatal error:  Class 'CFDIReader\CFDIReader' not found in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 28
+[03-Jan-2018 23:54:55 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 172
+[03-Jan-2018 23:55:25 America/Chicago] PHP Fatal error:  Class 'CFDIReader\CFDIReader' not found in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 28
+[03-Jan-2018 23:55:27 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 256
+[03-Jan-2018 23:55:34 America/Chicago] PHP Catchable fatal error:  Argument 1 passed to CFDIReader\CFDIReader::normalizeName() must be an instance of CFDIReader\string, string given, called in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 220 and defined in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 205
+[03-Jan-2018 23:56:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 259
+[03-Jan-2018 23:56:44 America/Chicago] PHP Notice:  Undefined index: relacionado in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 124
+[03-Jan-2018 23:56:44 America/Chicago] PHP Notice:  Undefined index: imp in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 126
+[03-Jan-2018 23:56:44 America/Chicago] PHP Notice:  Undefined index: Confirmacion in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 153
+[03-Jan-2018 23:56:44 America/Chicago] PHP Notice:  Undefined index: totalImpuestosRetenidos in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 172
+[03-Jan-2018 23:56:44 America/Chicago] PHP Notice:  Undefined variable: i in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 420
+[03-Jan-2018 23:56:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 259
+[03-Jan-2018 23:56:59 America/Chicago] PHP Notice:  Undefined index: relacionado in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 124
+[03-Jan-2018 23:56:59 America/Chicago] PHP Notice:  Undefined index: imp in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 126
+[03-Jan-2018 23:56:59 America/Chicago] PHP Notice:  Undefined index: Confirmacion in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 153
+[03-Jan-2018 23:56:59 America/Chicago] PHP Notice:  Undefined index: totalImpuestosRetenidos in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 172
+[03-Jan-2018 23:56:59 America/Chicago] PHP Notice:  Undefined variable: i in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 420
+[22-Jan-2018 12:38:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:40:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:40:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:40:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:41:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:41:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:41:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:44:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:45:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:47:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:49:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:49:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 12:55:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[22-Jan-2018 13:06:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/digmastu/public_html/_sitios/tacoloco.mx/formatos/PDF-3-3/factura_33.php on line 390
+[14-Mar-2018 01:37:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 91
+[14-Mar-2018 01:38:39 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 90
+[14-Mar-2018 01:39:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 134
+[14-Mar-2018 01:49:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 259
+[14-Mar-2018 01:49:58 America/Mexico_City] PHP Notice:  Undefined index: relacionado in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 124
+[14-Mar-2018 01:49:58 America/Mexico_City] PHP Notice:  Undefined index: imp in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 126
+[14-Mar-2018 01:49:58 America/Mexico_City] PHP Notice:  Undefined index: Confirmacion in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 153
+[14-Mar-2018 01:49:58 America/Mexico_City] PHP Notice:  Undefined index: totalImpuestosRetenidos in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 173
+[14-Mar-2018 01:49:58 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 417
+[14-Mar-2018 01:51:30 America/Mexico_City] PHP Notice:  Undefined index: relacionado in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 124
+[14-Mar-2018 01:51:30 America/Mexico_City] PHP Notice:  Undefined index: imp in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 126
+[14-Mar-2018 01:51:30 America/Mexico_City] PHP Notice:  Undefined index: Confirmacion in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 153
+[14-Mar-2018 01:51:30 America/Mexico_City] PHP Notice:  Undefined index: totalImpuestosRetenidos in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 173
+[14-Mar-2018 01:51:30 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 417
+[14-Mar-2018 01:51:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/vendor/eclipxe/buzoncfdi-cfdireader/src/CFDIReader/CFDIReader.php on line 259
+[14-Mar-2018 01:51:54 America/Mexico_City] PHP Notice:  Undefined index: relacionado in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 124
+[14-Mar-2018 01:51:54 America/Mexico_City] PHP Notice:  Undefined index: imp in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 126
+[14-Mar-2018 01:51:54 America/Mexico_City] PHP Notice:  Undefined index: Confirmacion in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 153
+[14-Mar-2018 01:51:54 America/Mexico_City] PHP Notice:  Undefined index: totalImpuestosRetenidos in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 173
+[14-Mar-2018 01:51:54 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 417
+[14-Mar-2018 01:52:27 America/Mexico_City] PHP Notice:  Undefined index: relacionado in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 124
+[14-Mar-2018 01:52:27 America/Mexico_City] PHP Notice:  Undefined index: imp in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 126
+[14-Mar-2018 01:52:27 America/Mexico_City] PHP Notice:  Undefined index: Confirmacion in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 153
+[14-Mar-2018 01:52:27 America/Mexico_City] PHP Notice:  Undefined index: totalImpuestosRetenidos in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 173
+[14-Mar-2018 01:52:27 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 417
+[14-Mar-2018 01:52:28 America/Mexico_City] PHP Notice:  Undefined index: relacionado in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 124
+[14-Mar-2018 01:52:28 America/Mexico_City] PHP Notice:  Undefined index: imp in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 126
+[14-Mar-2018 01:52:28 America/Mexico_City] PHP Notice:  Undefined index: Confirmacion in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 153
+[14-Mar-2018 01:52:28 America/Mexico_City] PHP Notice:  Undefined index: totalImpuestosRetenidos in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 173
+[14-Mar-2018 01:52:28 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/epic/public_html/biglogistica/app/formatos/PDF-3-3/factura_33.php on line 417
